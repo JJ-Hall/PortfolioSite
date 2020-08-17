@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/PorfolioSite/static/css/main.5f361e03.chunk.css",
-    "main.js": "/PorfolioSite/static/js/main.a41b4642.chunk.js",
-    "main.js.map": "/PorfolioSite/static/js/main.a41b4642.chunk.js.map",
-    "runtime-main.js": "/PorfolioSite/static/js/runtime-main.7afe1d76.js",
-    "runtime-main.js.map": "/PorfolioSite/static/js/runtime-main.7afe1d76.js.map",
-    "static/js/2.89fcbe41.chunk.js": "/PorfolioSite/static/js/2.89fcbe41.chunk.js",
-    "static/js/2.89fcbe41.chunk.js.map": "/PorfolioSite/static/js/2.89fcbe41.chunk.js.map",
-    "index.html": "/PorfolioSite/index.html",
-    "precache-manifest.829220d3ca65b8fe27cb9d74269c9f16.js": "/PorfolioSite/precache-manifest.829220d3ca65b8fe27cb9d74269c9f16.js",
-    "service-worker.js": "/PorfolioSite/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/PorfolioSite/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.89fcbe41.chunk.js.LICENSE.txt": "/PorfolioSite/static/js/2.89fcbe41.chunk.js.LICENSE.txt",
-    "static/media/Travelsite.JPG": "/PorfolioSite/static/media/Travelsite.dbbb95f0.JPG",
-    "static/media/aboutMeButton.svg": "/PorfolioSite/static/media/aboutMeButton.5f57f604.svg",
-    "static/media/contactButton.svg": "/PorfolioSite/static/media/contactButton.a2353b04.svg",
-    "static/media/github.svg": "/PorfolioSite/static/media/github.2a416c34.svg",
-    "static/media/homeButton.svg": "/PorfolioSite/static/media/homeButton.065f7231.svg",
-    "static/media/izuddin-h-bg.jpg": "/PorfolioSite/static/media/izuddin-h-bg.405ec938.jpg",
-    "static/media/projectButton.svg": "/PorfolioSite/static/media/projectButton.aa4ad851.svg"
+    "main.css": "/PortfolioSite/static/css/main.5f361e03.chunk.css",
+    "main.js": "/PortfolioSite/static/js/main.33816257.chunk.js",
+    "main.js.map": "/PortfolioSite/static/js/main.33816257.chunk.js.map",
+    "runtime-main.js": "/PortfolioSite/static/js/runtime-main.a394bb57.js",
+    "runtime-main.js.map": "/PortfolioSite/static/js/runtime-main.a394bb57.js.map",
+    "static/js/2.f1780551.chunk.js": "/PortfolioSite/static/js/2.f1780551.chunk.js",
+    "static/js/2.f1780551.chunk.js.map": "/PortfolioSite/static/js/2.f1780551.chunk.js.map",
+    "index.html": "/PortfolioSite/index.html",
+    "precache-manifest.3bcbe8ba6b656c8164e2ec45e9c2a828.js": "/PortfolioSite/precache-manifest.3bcbe8ba6b656c8164e2ec45e9c2a828.js",
+    "service-worker.js": "/PortfolioSite/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/PortfolioSite/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f1780551.chunk.js.LICENSE.txt": "/PortfolioSite/static/js/2.f1780551.chunk.js.LICENSE.txt",
+    "static/media/Travelsite.JPG": "/PortfolioSite/static/media/Travelsite.dbbb95f0.JPG",
+    "static/media/aboutMeButton.svg": "/PortfolioSite/static/media/aboutMeButton.5f57f604.svg",
+    "static/media/contactButton.svg": "/PortfolioSite/static/media/contactButton.a2353b04.svg",
+    "static/media/github.svg": "/PortfolioSite/static/media/github.2a416c34.svg",
+    "static/media/homeButton.svg": "/PortfolioSite/static/media/homeButton.065f7231.svg",
+    "static/media/izuddin-h-bg.jpg": "/PortfolioSite/static/media/izuddin-h-bg.405ec938.jpg",
+    "static/media/projectButton.svg": "/PortfolioSite/static/media/projectButton.aa4ad851.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7afe1d76.js",
-    "static/js/2.89fcbe41.chunk.js",
+    "static/js/runtime-main.a394bb57.js",
+    "static/js/2.f1780551.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a41b4642.chunk.js"
+    "static/js/main.33816257.chunk.js"
   ]
 }
