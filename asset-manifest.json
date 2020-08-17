@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/PorfolioSite/static/css/main.5f361e03.chunk.css",
+    "main.js": "/PorfolioSite/static/js/main.a41b4642.chunk.js",
+    "main.js.map": "/PorfolioSite/static/js/main.a41b4642.chunk.js.map",
+    "runtime-main.js": "/PorfolioSite/static/js/runtime-main.7afe1d76.js",
+    "runtime-main.js.map": "/PorfolioSite/static/js/runtime-main.7afe1d76.js.map",
+    "static/js/2.89fcbe41.chunk.js": "/PorfolioSite/static/js/2.89fcbe41.chunk.js",
+    "static/js/2.89fcbe41.chunk.js.map": "/PorfolioSite/static/js/2.89fcbe41.chunk.js.map",
+    "index.html": "/PorfolioSite/index.html",
+    "precache-manifest.829220d3ca65b8fe27cb9d74269c9f16.js": "/PorfolioSite/precache-manifest.829220d3ca65b8fe27cb9d74269c9f16.js",
+    "service-worker.js": "/PorfolioSite/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/PorfolioSite/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.89fcbe41.chunk.js.LICENSE.txt": "/PorfolioSite/static/js/2.89fcbe41.chunk.js.LICENSE.txt",
+    "static/media/Travelsite.JPG": "/PorfolioSite/static/media/Travelsite.dbbb95f0.JPG",
+    "static/media/aboutMeButton.svg": "/PorfolioSite/static/media/aboutMeButton.5f57f604.svg",
+    "static/media/contactButton.svg": "/PorfolioSite/static/media/contactButton.a2353b04.svg",
+    "static/media/github.svg": "/PorfolioSite/static/media/github.2a416c34.svg",
+    "static/media/homeButton.svg": "/PorfolioSite/static/media/homeButton.065f7231.svg",
+    "static/media/izuddin-h-bg.jpg": "/PorfolioSite/static/media/izuddin-h-bg.405ec938.jpg",
+    "static/media/projectButton.svg": "/PorfolioSite/static/media/projectButton.aa4ad851.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7afe1d76.js",
+    "static/js/2.89fcbe41.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a41b4642.chunk.js"
+  ]
+}
