@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import Typewriter from "typewriter-effect";
 
 const AboutDiv = styled.div`
   height: 100vh;
