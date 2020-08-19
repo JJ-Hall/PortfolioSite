@@ -5,13 +5,7 @@ import AboutButton from "../images/aboutMeButton.svg";
 import ProjectButton from "../images/projectButton.svg";
 import ContactButton from "../images/contactButton.svg";
 import GithubButton from "../images/github.svg";
-// import { Router, Link } from "react-router-dom";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
-// import Toggle from "../components/Toggler";
-// import { useDarkMode } from "../components/useDarkMode";
-// import { lightTheme, darkTheme, oldTheme } from "../components/Themes";
-// import { ThemeProvider } from "styled-components";
-// import { GlobalStyles } from "../components/globalStyles";
+import { BrowserRouter as Router, Link } from "react-router-dom";
 
 const HeaderDiv = styled.div`
   // border: solid;
@@ -41,7 +35,7 @@ const ExternalLinkDiv = styled.div`
 `;
 
 const GitImg = styled.img`
-  width: 95%;
+  width: 56px;
   fill: currentColor;
 `;
 
@@ -49,22 +43,22 @@ function Header() {
   return (
     <HeaderDiv>
       <SiteLinksDiv>
-        <Link to="/">
-          <img src={HomeButton} />
+        <Link to="/PortfolioSite/">
+          <img src={HomeButton} alt="Home button" />
         </Link>
-        <Link to="/about">
-          <img src={AboutButton} />
+        <Link to="/PortfolioSite/about">
+          <img src={AboutButton} alt="About button" />
         </Link>
-        <Link to="projects">
-          <img src={ProjectButton} />
+        <Link to="/PortfolioSite/projects">
+          <img src={ProjectButton} alt="Projects button" />
         </Link>
-        <Link to="/contact">
-          <img src={ContactButton} />
+        <Link to="/PortfolioSite/contact">
+          <img src={ContactButton} alt="Contact button" />
         </Link>
       </SiteLinksDiv>
       <ExternalLinkDiv>
         <a href="https://github.com/jj-hall">
-          <GitImg src={GithubButton} />
+          <GitImg src={GithubButton} alt="Github button" />
         </a>
       </ExternalLinkDiv>
     </HeaderDiv>

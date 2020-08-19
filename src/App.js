@@ -7,10 +7,10 @@ import About from "./components/about";
 import Projects from "./components/projects";
 import Background from "./images/izuddin-h-bg.jpg";
 import Contact from "./components/contact";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Toggle from "./components/Toggler";
 import { useDarkMode } from "./components/useDarkMode";
-import { lightTheme, darkTheme, oldTheme } from "./components/Themes";
+import { lightTheme, darkTheme } from "./components/Themes";
 import { ThemeProvider } from "styled-components";
 import { GlobalStyles } from "./components/globalStyles";
 
@@ -52,10 +52,10 @@ function App() {
           </ButtonDiv>
           <Header />
           <Switch>
-            <Route path="/" component={Intro} exact />
-            <Route path="/about" component={About} />
-            <Route path="/projects" component={Projects} />
-            <Route path="/contact" component={Contact} />
+            <Route path="/PortfolioSite/" component={Intro} exact />
+            <Route path="/PortfolioSite/about" component={About} />
+            <Route path="/PortfolioSite/projects" component={Projects} />
+            <Route path="/PortfolioSite/contact" component={Contact} />
           </Switch>
         </ContainerDiv>
       </ThemeProvider>
