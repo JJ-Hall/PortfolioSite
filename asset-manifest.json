@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/PortfolioSite/static/css/main.5f361e03.chunk.css",
-    "main.js": "/PortfolioSite/static/js/main.57763827.chunk.js",
-    "main.js.map": "/PortfolioSite/static/js/main.57763827.chunk.js.map",
-    "runtime-main.js": "/PortfolioSite/static/js/runtime-main.a394bb57.js",
-    "runtime-main.js.map": "/PortfolioSite/static/js/runtime-main.a394bb57.js.map",
-    "static/js/2.f1780551.chunk.js": "/PortfolioSite/static/js/2.f1780551.chunk.js",
-    "static/js/2.f1780551.chunk.js.map": "/PortfolioSite/static/js/2.f1780551.chunk.js.map",
-    "index.html": "/PortfolioSite/index.html",
-    "precache-manifest.2f873410e4b6393ae5ff48e4df1422db.js": "/PortfolioSite/precache-manifest.2f873410e4b6393ae5ff48e4df1422db.js",
-    "service-worker.js": "/PortfolioSite/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/PortfolioSite/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f1780551.chunk.js.LICENSE.txt": "/PortfolioSite/static/js/2.f1780551.chunk.js.LICENSE.txt",
-    "static/media/Travelsite.JPG": "/PortfolioSite/static/media/Travelsite.dbbb95f0.JPG",
-    "static/media/aboutMeButton.svg": "/PortfolioSite/static/media/aboutMeButton.5f57f604.svg",
-    "static/media/contactButton.svg": "/PortfolioSite/static/media/contactButton.a2353b04.svg",
-    "static/media/github.svg": "/PortfolioSite/static/media/github.2a416c34.svg",
-    "static/media/homeButton.svg": "/PortfolioSite/static/media/homeButton.065f7231.svg",
-    "static/media/izuddin-h-bg.jpg": "/PortfolioSite/static/media/izuddin-h-bg.405ec938.jpg",
-    "static/media/projectButton.svg": "/PortfolioSite/static/media/projectButton.aa4ad851.svg"
+    "main.css": "/static/css/main.5f361e03.chunk.css",
+    "main.js": "/static/js/main.6b8f1107.chunk.js",
+    "main.js.map": "/static/js/main.6b8f1107.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fdaf22cd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fdaf22cd.js.map",
+    "static/js/2.c2491f87.chunk.js": "/static/js/2.c2491f87.chunk.js",
+    "static/js/2.c2491f87.chunk.js.map": "/static/js/2.c2491f87.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bdfe5aa30cabf8e5976c17d6d6e18c78.js": "/precache-manifest.bdfe5aa30cabf8e5976c17d6d6e18c78.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c2491f87.chunk.js.LICENSE.txt": "/static/js/2.c2491f87.chunk.js.LICENSE.txt",
+    "static/media/Travelsite.JPG": "/static/media/Travelsite.dbbb95f0.JPG",
+    "static/media/aboutMeButton.svg": "/static/media/aboutMeButton.5f57f604.svg",
+    "static/media/contactButton.svg": "/static/media/contactButton.a2353b04.svg",
+    "static/media/github.svg": "/static/media/github.2a416c34.svg",
+    "static/media/homeButton.svg": "/static/media/homeButton.065f7231.svg",
+    "static/media/izuddin-h-bg.jpg": "/static/media/izuddin-h-bg.405ec938.jpg",
+    "static/media/projectButton.svg": "/static/media/projectButton.aa4ad851.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a394bb57.js",
-    "static/js/2.f1780551.chunk.js",
+    "static/js/runtime-main.fdaf22cd.js",
+    "static/js/2.c2491f87.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.57763827.chunk.js"
+    "static/js/main.6b8f1107.chunk.js"
   ]
 }
