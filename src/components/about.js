@@ -27,7 +27,7 @@ function About() {
       <AboutContent>
         <TitleText>ABOUT</TitleText>
         <InfoText>
-          I'm Josh, a Teacher with a growing passion for Web Development.
+          I'm Josh, a teacher with a growing passion for Web Development.
         </InfoText>
         <InfoText>I live in St.Louis, Missouri.</InfoText>
         <InfoText>

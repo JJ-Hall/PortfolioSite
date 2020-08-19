@@ -1,10 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-// import Toggle from "../components/Toggler";
-// import { useDarkMode } from "../components/useDarkMode";
-// import { lightTheme, darkTheme, oldTheme } from "../components/Themes";
-// import { ThemeProvider } from "styled-components";
-// import { GlobalStyles } from "../components/globalStyles";
 
 const IntroDiv = styled.div`
   height: 100vh;
