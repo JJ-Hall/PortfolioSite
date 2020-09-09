@@ -34,9 +34,18 @@ const ExternalLinkDiv = styled.div`
   color: red;
 `;
 
+const SiteImg = styled.img`
+  &:hover {
+    transform: scale(1.05);
+  }
+`;
+
 const GitImg = styled.img`
-  width: 56px;
+  width: 45px;
   fill: currentColor;
+  &:hover {
+    transform: scale(1.05);
+  }
 `;
 
 function Header() {
@@ -44,16 +53,16 @@ function Header() {
     <HeaderDiv>
       <SiteLinksDiv>
         <Link to="/PortfolioSite/">
-          <img src={HomeButton} alt="Home button" />
+          <SiteImg src={HomeButton} alt="Home button" />
         </Link>
         <Link to="/PortfolioSite/about">
-          <img src={AboutButton} alt="About button" />
+          <SiteImg src={AboutButton} alt="About button" />
         </Link>
         <Link to="/PortfolioSite/projects">
-          <img src={ProjectButton} alt="Projects button" />
+          <SiteImg src={ProjectButton} alt="Projects button" />
         </Link>
         <Link to="/PortfolioSite/contact">
-          <img src={ContactButton} alt="Contact button" />
+          <SiteImg src={ContactButton} alt="Contact button" />
         </Link>
       </SiteLinksDiv>
       <ExternalLinkDiv>

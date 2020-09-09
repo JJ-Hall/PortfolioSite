@@ -11,6 +11,7 @@ const Overlay = styled.div`
   width: 100%;
   opacity: 0;
   transition: 0.5s ease;
+
   // background-color: rgba(173, 25, 25, 0.2);
 `;
 
@@ -33,12 +34,15 @@ const Img = styled.img`
   object-fit: cover;
   opacity: 1;
   transition: 0.5s ease;
+  border-radius: 15px;
 `;
 
 const ProjectContainer = styled.div`
   position: relative;
   height: 350px;
   width: 350px;
+  border-radius: 15px;
+  margin: 0px 30px 30px 0px;
   background-color: ${(props) => props.backgroundColor || "rgb(58, 231, 64)"};
   &:hover ${Img} {
     opacity: 0.3;
