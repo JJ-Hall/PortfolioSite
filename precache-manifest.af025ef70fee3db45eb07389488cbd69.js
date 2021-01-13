@@ -1,35 +1,47 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3aed5092ee37729ecc7f240af4be0268",
+    "revision": "b840bb28d34a42ba2744e3174cb5645e",
     "url": "/PortfolioSite/index.html"
   },
   {
-    "revision": "920a3221d389303c8db9",
-    "url": "/PortfolioSite/static/css/main.5f361e03.chunk.css"
+    "revision": "b9add404b2a0985b75ea",
+    "url": "/PortfolioSite/static/css/main.c6a55c78.chunk.css"
   },
   {
-    "revision": "302a9c3c21d6e6f1371a",
-    "url": "/PortfolioSite/static/js/2.f1780551.chunk.js"
+    "revision": "03cf0f3dd9e2351151b7",
+    "url": "/PortfolioSite/static/js/2.9973de40.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/PortfolioSite/static/js/2.f1780551.chunk.js.LICENSE.txt"
+    "url": "/PortfolioSite/static/js/2.9973de40.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "920a3221d389303c8db9",
-    "url": "/PortfolioSite/static/js/main.5477ddd9.chunk.js"
+    "revision": "b9add404b2a0985b75ea",
+    "url": "/PortfolioSite/static/js/main.96066094.chunk.js"
   },
   {
     "revision": "7c4efc90038db6205b62",
     "url": "/PortfolioSite/static/js/runtime-main.a394bb57.js"
   },
   {
+    "revision": "da6630a36848215f2cbe6b7f941def30",
+    "url": "/PortfolioSite/static/media/PowerBody.da6630a3.JPG"
+  },
+  {
     "revision": "dbbb95f01e3b5711d388edca216fb0ae",
     "url": "/PortfolioSite/static/media/Travelsite.dbbb95f0.JPG"
   },
   {
+    "revision": "46438218b09e3e743cfbcab138472679",
+    "url": "/PortfolioSite/static/media/VetSite.46438218.jpg"
+  },
+  {
     "revision": "5f57f6045b8b936a1d23dfe1952fb59c",
     "url": "/PortfolioSite/static/media/aboutMeButton.5f57f604.svg"
+  },
+  {
+    "revision": "53b730f42707c733f56754b80216c51e",
+    "url": "/PortfolioSite/static/media/calculator.53b730f4.jpg"
   },
   {
     "revision": "a2353b04fab541a12ec0fc9d1add938e",
