@@ -9,16 +9,17 @@ const AboutDiv = styled.div`
 `;
 
 const AboutContent = styled.div`
-  width: 50%;
+  width: 40%;
   margin: auto;
 `;
 
 const TitleText = styled.h1`
-  color: ;
+  font-size: 2.5rem;
+  color: #67eaca;
 `;
 
 const InfoText = styled.p`
-  color: ;
+  font-size: 2.5rem;
 `;
 
 function About() {
@@ -27,20 +28,11 @@ function About() {
       <AboutContent>
         <TitleText>ABOUT</TitleText>
         <InfoText>
-          I'm Josh, a teacher with a growing passion for Web Development.
-        </InfoText>
-        <InfoText>I live in St.Louis, Missouri.</InfoText>
-        <InfoText>
-          I started programming during the winter of 2018. I started by watching
-          videos and trying to gain a decent understanding of JavaScript and
-          React.
-        </InfoText>
-        <InfoText>
-          I have a strong passion for learning web development. I look forward
-          to any potential paths this career may take me on.
+          I'm Josh, a teacher with a growing passion for Web Development from St. Louis, Missouri. I am currently interested in finding employment
+          in software and web development. I am looking forward to any potential paths this career may take me on.
         </InfoText>
         <TitleText>Skills</TitleText>
-        <InfoText>Still under counstruction.</InfoText>
+        <InfoText>As of now, I have experience with Java Script, HTML, CSS, and React JS.</InfoText>
       </AboutContent>
     </AboutDiv>
   );

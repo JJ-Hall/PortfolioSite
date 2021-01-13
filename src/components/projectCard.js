@@ -39,10 +39,11 @@ const Img = styled.img`
 
 const ProjectContainer = styled.div`
   position: relative;
-  height: 350px;
-  width: 350px;
+  width: 60%;
+  height: 300px;
+  max-width: 350px;
   border-radius: 15px;
-  margin: 0px 30px 30px 0px;
+  margin: 30px;
   background-color: ${(props) => props.backgroundColor || "rgb(58, 231, 64)"};
   &:hover ${Img} {
     opacity: 0.3;

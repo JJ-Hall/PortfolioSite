@@ -18,21 +18,21 @@ const TextDiv = styled.h1`
   width: 60%;
   margin: auto;
   text-align: center;
+  font-size: 3.5rem;
 `;
 
 const ContactForms = styled.div`
-  width: 20%;
+  width: 40%;
   margin: auto;
   text-align: center;
   display: flex;
   flex-direction: column;
-  font-size: larger;
   padding: 38px;
 `;
 
 const ContactText = styled.a`
-  font-size: larger;
-  padding: 10px;
+  font-size: 3.5rem;
+  padding: 10px 0;
   text-decoration: none;
   color: #67eaca;
   &:hover {
@@ -45,16 +45,18 @@ function ContactForm() {
     <ContactDiv>
       <Body>
         <TextDiv>
-          Please Feel Free To Contact Me With Any Questions Or Job opportunities
+          Please Feel Free To Contact Me With Any Questions Or Job Opportunities
         </TextDiv>
         <ContactForms>
           <ContactText href="mailto:joshhall1991@gmail.com" target="_blank">
             Send an Email
           </ContactText>
 
-          <ContactText href="https://www.linkedin.com" target="_blank">
+          <ContactText href="https://www.linkedin.com/in/josh-hall-657a881b4/" target="_blank">
             Connect on LinkedIn
           </ContactText>
+
+          <ContactText href="https://hirejoshhall.com/static/media/Resume.bbe8bae9.pdf" target="_blank">Resume</ContactText>
         </ContactForms>
       </Body>
     </ContactDiv>

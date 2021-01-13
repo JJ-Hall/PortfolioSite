@@ -11,7 +11,7 @@ const HeaderDiv = styled.div`
   // border: solid;
   display: flex;
   justify-content: center;
-  width: 3vw;
+  width: 60px;
   height: 100vh;
   position: fixed;
   // background: rgba(175, 175, 175, 0.3);
@@ -26,7 +26,6 @@ const SiteLinksDiv = styled.div`
 
 const ExternalLinkDiv = styled.div`
   display: flex;
-  // height: 1%;
   justify-content: center;
   position: absolute;
   right: 0;

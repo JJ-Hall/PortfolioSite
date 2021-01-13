@@ -9,7 +9,7 @@ const Button = styled.button`
   border-radius: 10px;
   color: ${({ theme }) => theme.text};
   cursor: pointer;
-  font-size:.7rem;
+  font-size: 1.6rem;
   font-weight: 8px;
   padding: 0.2rem;
   }

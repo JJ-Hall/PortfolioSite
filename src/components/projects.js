@@ -3,19 +3,25 @@ import styled from "styled-components";
 import ProjectCard from "./projectCard";
 import TravelSiteImg from "../images/Travelsite.JPG";
 import PowerBodyImg from "../images/PowerBody.JPG";
+import VetSiteImg from "../images/VetSite.jpg";
+import CalculatorImg from "../images/calculator.jpg";
 
 const ProjectDiv = styled.div`
   height: 100vh;
   width: 100vw;
   display: flex;
   justify-content: center;
+  
 `;
 
 const ProjectsLayout = styled.div`
   text-align: center;
 `;
 
-const ProjectsTitle = styled.h1``;
+const ProjectsTitle = styled.h1`
+font-size: 4rem;
+color: #67eaca;
+`;
 
 const ProjectsTextDiv = styled.div`
   margin: 80px;
@@ -23,7 +29,7 @@ const ProjectsTextDiv = styled.div`
 
 const ProjectCardDiv = styled.div`
   display: flex;
-  // margin: auto;
+  flex-wrap:wrap;
   justify-content: space-evenly;
 `;
 
@@ -43,6 +49,28 @@ function Projects() {
             alt="Local Gym Website"
             title="Local Gym Website"
             info="Redesigned Local Gym Website"
+          />
+
+          <ProjectCard
+            backgroundColor="#67eaca;
+            "
+            color="white"
+            href="https://5ffe75ad255f010007a46e26--relaxed-euclid-6b7377.netlify.app/"
+            src={VetSiteImg}
+            alt="Local Vet Website"
+            title="Local Vet Website"
+            info="Custom Vet Website made with React JS"
+          />
+
+          <ProjectCard
+            backgroundColor="rgb(58, 139, 231, 1);
+            "
+            color="white"
+            href="https://goofy-booth-be878d.netlify.app/"
+            src={CalculatorImg}
+            alt="Calculator"
+            title="Calculator"
+            info="Basic Calculator made with HTML, CSS, and JS"
           />
           <ProjectCard
             backgroundColor="rgb(255, 255, 255, .5)"

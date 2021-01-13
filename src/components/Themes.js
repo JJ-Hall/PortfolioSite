@@ -11,9 +11,3 @@ export const darkTheme = {
   background: "#999",
 };
 
-export const oldTheme = {
-  body: "yellow",
-  text: "green",
-  toggleBorder: "#6B8096",
-  background: "purple",
-};

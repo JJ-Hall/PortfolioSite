@@ -14,12 +14,14 @@ const ContentDiv = styled.div``;
 const TextDiv = styled.h1`
   width: 50%;
   margin: auto;
-  color: ;
+  color: #67eaca;
+  font-size: 4rem;
 `;
 
 const SmallTextDiv = styled.h3`
   width: 50%;
   margin: auto;
+  font-size: 3rem;
   color: ;
 `;
 
