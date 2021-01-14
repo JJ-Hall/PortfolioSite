@@ -14,7 +14,6 @@ const HeaderDiv = styled.div`
   width: 60px;
   height: 100vh;
   position: fixed;
-  // background: rgba(175, 175, 175, 0.3);
 `;
 
 const SiteLinksDiv = styled.div`

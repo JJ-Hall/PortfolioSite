@@ -11,7 +11,15 @@ const ProjectDiv = styled.div`
   width: 100vw;
   display: flex;
   justify-content: center;
-  
+  @media (min-width: 1226px) and (max-width: 1340px) {
+    margin-left: 3%;
+  }
+  @media (min-width: 820px) and (max-width: 938px) {
+    margin-left: 3%;
+  }
+  @media (max-width: 360px) {
+    margin-left: 3%;
+  }
 `;
 
 const ProjectsLayout = styled.div`
@@ -21,16 +29,23 @@ const ProjectsLayout = styled.div`
 const ProjectsTitle = styled.h1`
 font-size: 4rem;
 color: #67eaca;
+@media (max-width: 600px) {
+  font-size: 2.5rem;
+}
 `;
 
 const ProjectsTextDiv = styled.div`
   margin: 80px;
+  @media (max-width: 600px) {
+    margin-bottom: 0px;
+  }
 `;
 
 const ProjectCardDiv = styled.div`
   display: flex;
   flex-wrap:wrap;
   justify-content: space-evenly;
+
 `;
 
 function Projects() {

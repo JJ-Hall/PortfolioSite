@@ -16,13 +16,24 @@ const TextDiv = styled.h1`
   margin: auto;
   color: #67eaca;
   font-size: 4rem;
+  @media (max-width: 700px) {
+    font-size: 2.5rem;
+  }
+  @media (max-width: 466px) {
+    font-size: 2rem;
+  }
 `;
 
 const SmallTextDiv = styled.h3`
   width: 50%;
   margin: auto;
   font-size: 3rem;
-  color: ;
+  @media (max-width: 700px) {
+    font-size: 2rem;
+  }
+  @media (max-width: 466px) {
+    font-size: 1.6rem;
+  }
 `;
 
 function Intro() {

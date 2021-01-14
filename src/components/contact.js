@@ -19,6 +19,9 @@ const TextDiv = styled.h1`
   margin: auto;
   text-align: center;
   font-size: 3.5rem;
+  @media (max-width: 806px) {
+    font-size: 2rem;
+  }
 `;
 
 const ContactForms = styled.div`
@@ -37,6 +40,9 @@ const ContactText = styled.a`
   color: #67eaca;
   &:hover {
     transform: scale(1.1);
+  }
+  @media (max-width: 806px) {
+    font-size: 2rem;
   }
 `;
 
