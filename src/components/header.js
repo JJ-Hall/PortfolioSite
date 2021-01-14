@@ -51,16 +51,16 @@ function Header() {
   return (
     <HeaderDiv>
       <SiteLinksDiv>
-        <Link to="/PortfolioSite/">
+        <Link to="/">
           <SiteImg src={HomeButton} alt="Home button" />
         </Link>
-        <Link to="/PortfolioSite/about">
+        <Link to="/about">
           <SiteImg src={AboutButton} alt="About button" />
         </Link>
-        <Link to="/PortfolioSite/projects">
+        <Link to="/projects">
           <SiteImg src={ProjectButton} alt="Projects button" />
         </Link>
-        <Link to="/PortfolioSite/contact">
+        <Link to="/contact">
           <SiteImg src={ContactButton} alt="Contact button" />
         </Link>
       </SiteLinksDiv>
