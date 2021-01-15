@@ -5,6 +5,7 @@ import TravelSiteImg from "../images/Travelsite.JPG";
 import PowerBodyImg from "../images/PowerBody.JPG";
 import VetSiteImg from "../images/VetSite.jpg";
 import CalculatorImg from "../images/calculator.jpg";
+import HoroScopeImg from "../images/HoroScopeSite.jpg";
 
 const ProjectDiv = styled.div`
   height: 100vh;
@@ -65,7 +66,6 @@ function Projects() {
             title="Local Gym Website"
             info="Redesigned Local Gym Website"
           />
-
           <ProjectCard
             backgroundColor="#67eaca;
             "
@@ -78,8 +78,18 @@ function Projects() {
           />
 
           <ProjectCard
-            backgroundColor="rgb(58, 139, 231, 1);
+            backgroundColor="rgba(66,24,138, .8);
             "
+            color="white"
+            href="https://nervous-lewin-e3d8f7.netlify.app/"
+            src={HoroScopeImg}
+            alt="Horoscope Website"
+            title="Horoscope Website"
+            info="Horoscope Website made with HTML, CSS, and JS"
+          />
+
+          <ProjectCard
+            backgroundColor="rgba(58, 139, 231, 1);"
             color="white"
             href="https://goofy-booth-be878d.netlify.app/"
             src={CalculatorImg}
@@ -88,7 +98,7 @@ function Projects() {
             info="Basic Calculator made with HTML, CSS, and JS"
           />
           <ProjectCard
-            backgroundColor="rgb(255, 255, 255, .5)"
+            backgroundColor="rgb(255, 255, 255, 1)"
             color="rgb(58, 139, 231, 1)"
             href="https://infallible-wiles-01b8f6.netlify.app/"
             src={TravelSiteImg}
