@@ -43,6 +43,7 @@ const ProjectContainer = styled.div`
   height: 300px;
   max-width: 350px;
   border-radius: 15px;
+  box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.3);
   margin: 30px;
   background-color: ${(props) => props.backgroundColor || "rgb(58, 231, 64)"};
   &:hover ${Img} {
