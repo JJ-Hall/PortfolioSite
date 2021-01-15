@@ -25,6 +25,13 @@ const ProjectDiv = styled.div`
 
 const ProjectsLayout = styled.div`
   text-align: center;
+  width: 60%;
+  @media (max-width: 2050px) {
+    width: 80%;
+  }
+  @media (max-width: 1538px) {
+    width: 100%;
+  }
 `;
 
 const ProjectsTitle = styled.h1`
