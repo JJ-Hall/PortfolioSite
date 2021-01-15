@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import Resume from "../images/Resume.pdf"
 
 const ContactDiv = styled.div`
   height: 100vh;
@@ -62,7 +63,7 @@ function ContactForm() {
             Connect on LinkedIn
           </ContactText>
 
-          <ContactText href="https://hirejoshhall.com/static/media/Resume.bbe8bae9.pdf" target="_blank">Resume</ContactText>
+          <ContactText href={Resume} target="_blank">Resume</ContactText>
         </ContactForms>
       </Body>
     </ContactDiv>
