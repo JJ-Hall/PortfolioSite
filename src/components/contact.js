@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import Resume from "../images/Resume.pdf"
+import Resume from "../images/Josh_Hall_Resume.pdf"
 
 const ContactDiv = styled.div`
   height: 100vh;
